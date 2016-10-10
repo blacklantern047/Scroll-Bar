@@ -28,7 +28,7 @@ body
 
 
 <div id="b">
-<button id="btn" onclick="scrolling();">Go to Top</button>
+<button id="btn" onclick="scrolling()">Go to Top</button>
 </div>
 </body>
 </html>
