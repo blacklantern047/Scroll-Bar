@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+
+<body>
+<h1 id="top">This is TOP</h1>
+
+
+<style type="text/css">
+body
+{height: 4000px;}
+#b{padding-top: 3500px;}
+
+</style>
+
+
+
+<script type="text/javascript">
+	function scrolling
+	{
+		for (var i = 0; i <3500; i++) {
+			
+		
+	window.scrollby(0,1+i);
+	   }
+	}
+</script>
+
+
+
+<div id="b">
+<button id="btn" onclick="window.scrollby(0,100);">Go to Top</button>
+</div>
+</body>
+</html>
