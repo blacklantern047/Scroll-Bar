@@ -15,12 +15,12 @@ body
 
 
 <script type="text/javascript">
-	function scrolling
+	function scrolling()
 	{
 		for (var i = 0; i <3500; i++) {
 			
 		
-	window.scrollby(0,1+i);
+	window.scrollBy(0,1+i);
 	   }
 	}
 </script>
